@@ -5,14 +5,14 @@ Scanner scanner = new Scanner(System.in);
 Calc calc = new Calc();
 
 public void printmenu(){
-    //Imprime el menú necesario
+
     System.out.println("Bienvenido a la calculadora");
     System.out.println("1. Sumar");
     System.out.println("2. Resta.r");
     System.out.println("3. Multiplicar");
     System.out.println("Salir");
 }
-//Función que llama a la calculadora
+//Función que llama a la calculadora y realiza la suma
 public void calcular(){
     System.out.println("Ingrese el primer numero");
     int n1 = scanner.nextInt();
