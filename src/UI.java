@@ -5,7 +5,7 @@ Scanner scanner = new Scanner(System.in);
 Calc calc = new Calc();
 
 public void printmenu(){
-
+    //Imprime el menú necesario
     System.out.println("Bienvenido a la calculadora");
     System.out.println("1. Sumar");
     System.out.println("2. Resta.r");
