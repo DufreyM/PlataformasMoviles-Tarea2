@@ -8,7 +8,7 @@ public void printmenu(){
 
     System.out.println("Bienvenido a la calculadora");
     System.out.println("1. Sumar");
-    System.out.println("2. Restar");
+    System.out.println("2. Resta.r");
     System.out.println("3. Multiplicar");
     System.out.println("Salir");
 }
