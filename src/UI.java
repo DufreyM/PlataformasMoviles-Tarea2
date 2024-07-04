@@ -12,7 +12,7 @@ public void printmenu(){
     System.out.println("3. Multiplicar");
     System.out.println("Salir");
 }
-
+//Función que llama a la calculadora
 public void calcular(){
     System.out.println("Ingrese el primer numero");
     int n1 = scanner.nextInt();
