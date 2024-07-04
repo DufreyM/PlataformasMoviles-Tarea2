@@ -12,8 +12,7 @@ public void printmenu(){
     System.out.println("3. Multiplicar");
     System.out.println("Salir");
 }
-//Función que llama a la calculadora y realiza la suma 
-//Cambios revert
+//Función que llama a la calculadora y realiza la suma
 
 public void calcular(){
     System.out.println("Ingrese el primer numero");
